@@ -7,6 +7,7 @@ Neurodivergent-friendly tools for AI assistants.
 | Tool | What it does |
 | --- | --- |
 | [i-have-adhd](i-have-adhd/) | ADHD-friendly answers in Claude Code and Cursor |
+| [token-saver](token-saver/) | Spend fewer tokens: read less, write less, do only the asked work |
 
 ## 🔌 Install (Claude Code)
 

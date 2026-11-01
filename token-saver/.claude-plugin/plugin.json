@@ -1,0 +1,9 @@
+{
+  "name": "token-saver",
+  "version": "1.0.0",
+  "description": "NeuroTools token-saver: read less, write less, do only the asked work. Rules partly adapted from Caveman (Apache-2.0).",
+  "author": {
+    "name": "Carmen Reed"
+  },
+  "license": "MIT"
+}

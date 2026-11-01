@@ -9,6 +9,7 @@ ADHD-friendly answers from Claude Code and Cursor. Action first. Numbered steps.
 - ➕ 4 new rules: no em dashes in anything you keep or copy, emojis welcome, honesty over people pleasing, mobile warnings upfront
 - ✏️ Unclear requests: ask **all** clarifying questions first (original said ask one)
 - ✏️ One-line recap allowed, to confirm a decision
+- 🪶 Rules rewritten shorter (about 58% fewer words) to save tokens every session
 - ✂️ Removed: adapters for Codex, OpenCode, Gemini, Qwen, Kimi, Pi, OMP, Grok
 - ✂️ Removed: GitHub auto-checks, translations, logo
 

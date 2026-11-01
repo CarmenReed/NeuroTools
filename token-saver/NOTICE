@@ -1,0 +1,14 @@
+NeuroTools token-saver
+Copyright 2026 Carmen Reed
+
+Parts of skills/token-saver/SKILL.md are adapted from Caveman
+(https://github.com/JuliusBrussee/caveman), Copyright 2026 Julius Brussee,
+licensed under the Apache License, Version 2.0 (see LICENSE-APACHE).
+
+Changes made: rules rewritten and condensed in our own words; the caveman
+voice, persona, and modes removed; work-pattern skills (investigate-first,
+surgical-patch, verify-and-stop, safe-refactor, migration) merged into short
+rules; reading-less rules added; deference to the i-have-adhd skill added.
+
+"Caveman" is a trademark of Julius Brussee. This project is not affiliated
+with or endorsed by Caveman.

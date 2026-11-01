@@ -11,6 +11,12 @@
       "description": "ADHD-friendly output shaping for Claude Code (NeuroTools version).",
       "source": "./i-have-adhd",
       "category": "productivity"
+    },
+    {
+      "name": "token-saver",
+      "description": "Cut token spend: read less, write less, do only the asked work.",
+      "source": "./token-saver",
+      "category": "productivity"
     }
   ]
 }
