@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "neurotools",
+  "description": "Neurodivergent-friendly tools for Claude Code.",
+  "owner": {
+    "name": "Carmen Reed"
+  },
+  "plugins": [
+    {
+      "name": "i-have-adhd",
+      "description": "ADHD-friendly output shaping for Claude Code (NeuroTools version).",
+      "source": "./i-have-adhd",
+      "category": "productivity"
+    }
+  ]
+}

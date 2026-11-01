@@ -1,0 +1,9 @@
+{
+  "name": "i-have-adhd",
+  "version": "1.0.0",
+  "description": "NeuroTools version of i-have-adhd: ADHD-friendly output for Claude Code. Action first, numbered steps, no tangents, no em dashes in deliverables. Adapted from ayghri/i-have-adhd (MIT).",
+  "author": {
+    "name": "Carmen Reed"
+  },
+  "license": "MIT"
+}
